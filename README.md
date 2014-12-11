@@ -18,6 +18,8 @@ You can use an image or use an `.icns` generator with a single image as a custom
 1. Download the icon that you want (`<ICON_NAME>.icns`).
 2. Put the icon in `/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/`.
     Note: You need to right-click on `CoreTypes.bundle` and select "Show Package Contents".
+3. In another Finder window, go to the folder you want to customize, right-click and "Get Info".
+4. Drag the icon from step 2 and drop it on the top left of the info window of the folder you want to customize.
 
 ## Notes ##
 - The framework is currently specifically set up for creating custom folder icons for OSX.
