@@ -12,7 +12,7 @@ You can use an image or use an `.icns` generator with a single image as a custom
 3. Create your icon in every `.psd` file. Note: use the layer style from the blank layer to style your custom image.
 4. Save every `.psd` as a `.png` in `<ICON_NAME>.iconset/`
 5. In `<ICON_NAME>/` run `iconutil -c icns <ICON_NAME>.iconset/ -o ../../<ICON_NAME>.icns`. This generates the icon in the projects root directory.
-6. All done! To use the icon, check out [Installing Icons](https://github.com/kubasub/osx-icons/blob/master/README.md#installing-icons).
+6. All done! To use the icon, check out "Installing Icons".
 
 ## Installing Icons ##
 1. Download the icon that you want (`<ICON_NAME>.icns`).
