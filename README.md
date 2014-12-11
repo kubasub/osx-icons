@@ -1,6 +1,6 @@
 # OSX Icons #
 
-Open source icon framework for creating OSX icons and icon-repository.
+Open source icon framework for creating OSX icons and icon repository.
 
 You can use an image or use an `.icns` generator with a single image as a custom OSX icon. That's not the *right* way to do it. I've tried it, and it leads to images that are pixelated when enlarged, fuzzy when shrunk, and don't match the other OSX icons. This framework creates an environment where you can create your own high-quality OSX icons. It includes template `.psd` files, required folders and samples to get you going! Finally, I'll be sure to add more icons as they come in so that this can also be a source for high-quality, custom OSX icons.
 --kubasub
